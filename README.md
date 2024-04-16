@@ -1,4 +1,4 @@
-Hi 👋 My name is Tibor Hajszan, MD, PhD
+Hi, My name is Tibor Hajszan, MD, PhD
 =======================================
 
 Python Developer and Data Analyst
